@@ -5,11 +5,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+Open [https://ec18130.github.io/GiraphicsJuniorDeveloper](https://ec18130.github.io/GiraphicsJuniorDeveloper) to view it in your browser or download the files and run npm start
 
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
