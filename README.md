@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run: \
-Open [https://ec18130.github.io/GiraphicsJuniorDeveloper](https://ec18130.github.io/GiraphicsJuniorDeveloper) to view it in your browser
+Open build version [https://ec18130.github.io/GirraphicsJuniorDeveloper](https://ec18130.github.io/GiraphicsJuniorDeveloper) to view it in your browser
 
 Or download the files and run npm start
 
