@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GiraphicsJuniorDeveloper/static/css/main.8d6a17ca.css",
+    "main.js": "/GiraphicsJuniorDeveloper/static/js/main.f4b23daa.js",
+    "static/js/787.928d84dd.chunk.js": "/GiraphicsJuniorDeveloper/static/js/787.928d84dd.chunk.js",
+    "index.html": "/GiraphicsJuniorDeveloper/index.html",
+    "main.8d6a17ca.css.map": "/GiraphicsJuniorDeveloper/static/css/main.8d6a17ca.css.map",
+    "main.f4b23daa.js.map": "/GiraphicsJuniorDeveloper/static/js/main.f4b23daa.js.map",
+    "787.928d84dd.chunk.js.map": "/GiraphicsJuniorDeveloper/static/js/787.928d84dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.f4b23daa.js"
+  ]
+}
